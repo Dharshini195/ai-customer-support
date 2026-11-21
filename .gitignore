@@ -13,3 +13,6 @@ wheels/
 credentials.json
 node_modules/
 dashboard/dist/
+
+#DB
+customer_support.db
